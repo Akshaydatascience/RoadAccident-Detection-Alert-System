@@ -1,0 +1,15 @@
+Category,Name,Address,Latitude,Longitude,Phone,Emergency_24x7,ICU_availability,Response_readiness
+Hospital,Be Well Hospitals T Nagar,T Nagar Chennai,13.04306,80.24534,+91 9698300300,Y,Y,high
+Hospital,Raju Hospitals,T Nagar Chennai,13.03293,80.23027,+91 44 24342894,Y,N,high
+Hospital,Bharathi Rajaa Hospital and Research Centre,T Nagar Chennai,13.04813,80.24517,+91 44 62116211,Y,Y,high
+Hospital,WCF Hospital T Nagar,T Nagar Chennai,13.05127,80.23409,+91 8939497777,Y,Y,high
+Hospital,RMD Nursing Home,T Nagar Chennai,13.04404,80.23551,+91 44 28157373,Y,N,medium
+Hospital,Apollo Medical Centre,T Nagar Chennai,13.04672,80.24348,+91 18605001066,Y,Y,high
+Hospital,SIMS Hospitals,T Nagar Chennai,13.05169,80.21175,+91 44 20002001,Y,Y,high
+Hospital,Vinita Hospital,T Nagar Chennai,13.05446,80.24537,+91 7299078999,Y,N,medium
+Hospital,Venkataeswara Hospitals,T Nagar Chennai,13.02945,80.24409,+91 44 45111111,Y,Y,high
+Police Station,Pondy Bazzar Police Station,Pondy Bazaar T Nagar,13.04134,80.23442,+91 44 23452624,Y,,high
+Police Station,W25 T. Nagar All Women Police Station,T Nagar Chennai,13.03496,80.22967,+91 44 23452614,Y,,high
+Police Station,R1 Mambalam Police Station,Mambalam T Nagar,13.03511,80.22957,+91 44 23452608,Y,,high
+Police Station,Mambalam Police Booth,Mambalam Chennai,13.04037,80.23186,,Y,,medium
+Police Station,Mambalam Railway Police Station,Mambalam Chennai,13.03844,80.22783,,Y,,medium

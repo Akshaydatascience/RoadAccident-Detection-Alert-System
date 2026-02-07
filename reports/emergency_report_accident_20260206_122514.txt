@@ -1,0 +1,17 @@
+==============================================================================
+NEAREST EMERGENCY SERVICES (Sorted by Priority & Distance)
+==============================================================================
+
+0. [HOSPITAL] Assigned Hospital
+   Name: WCF Hospital T Nagar
+   Phone: +91 8939497777
+   Distance (route): 2.61 km
+
+1. [SERVICE] WCF Hospital T Nagar
+   Phone: +91 8939497777
+
+2. [POLICE] Pondy Bazzar Police Station
+   Phone: +91 44 23452624
+
+
+JSON report (auto): C:\Road-Accident-Detection-Alert-System-main\yolov5\api_data\emergency_response_accident_20260206_122514.json
