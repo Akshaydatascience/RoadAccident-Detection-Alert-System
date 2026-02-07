@@ -5,14 +5,15 @@ import time
 from twilio.rest import Client
 from playsound import playsound
 from ultralytics import YOLO  # Import YOLO
+import os
 
 # ================= CONFIGURATION =================
 # 1. API & Twilio
 SERVER_URL = "http://localhost:5000/api/trigger"
-TWILIO_SID = "ACxxxxxxxxxxxxxxxxxxx" 
-TWILIO_AUTH = "xxxxxxxxxxxxxxxxxxx" 
-FROM_PHONE = "+15550000000"
-TO_PHONE = "+15559999999"
+TWILIO_SID = os.getenv("TWILIO_ACCOUNT_SID") 
+TWILIO_AUTH = os.getenv("TWILIO_AUTH_TOKEN") 
+FROM_PHONE = ""
+TO_PHONE = ""  # Your verified number in E.164 format (e.g., +1234567890)
 
 # 2. Location (T. Nagar Simulation)
 CURRENT_LAT = 13.0390 
